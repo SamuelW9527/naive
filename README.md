@@ -11,10 +11,9 @@
 6. 选择需要节点即可使用    
     
 ### Android
-1. ~~下载[SagerNet(github)](https://github.com/SagerNet/SagerNet/releases/download/0.8.1-rc02/SN-0.8.1-rc02-arm64-v8a.apk)(未必最新版本)或者[SagerNet(Google Play)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet),安装~~(大部分国产手机系统不支持)  
-下载[Matsuri(github)](https://github.com/MatsuriDayo/Matsuri/releases)或者[Matsuri(Google Play)](https://play.google.com/store/apps/details?id=moe.matsuri.lite),安装  
-2. ~~下载[SagetNet-NaïveProxy插件(github)](https://github.com/SagerNet/SagerNet/releases/download/naive-plugin-106.0.5249.91-1/naive-plugin-106.0.5249.91-1-arm64-v8a.apk)(未必最新版本)或者[SagetNet-NaïveProxy插件(Google Play)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet.plugin.naive),安装~~(使用Matsuri不需要)
-3. 打开~~SagerNet~~Matsuri,左上三横杠->分组,同[上方Windows,linux,macOS教程](#windowslinuxmacos)的第5步
+1. 下载[SagerNet(github)](https://github.com/SagerNet/SagerNet/releases/download/0.8.1-rc02/SN-0.8.1-rc02-arm64-v8a.apk)(未必最新版本)或者[SagerNet(Google Play)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet),安装
+2. 下载[SagetNet-NaïveProxy插件(github)](https://github.com/SagerNet/SagerNet/releases/download/naive-plugin-106.0.5249.91-1/naive-plugin-106.0.5249.91-1-arm64-v8a.apk)(未必最新版本)或者[SagetNet-NaïveProxy插件(Google Play)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet.plugin.naive),安装
+3. 打开SagerNet,左上三横杠->分组,同[上方Windows,linux,macOS教程](#windowslinuxmacos)的第5步
 4. 左上三条杠->配置,选择需要的节点启动即可   
    
 ### iOS
